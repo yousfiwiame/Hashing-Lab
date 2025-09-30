@@ -1,0 +1,3 @@
+This is a test file for the hashing LAB.
+Data integrity is crucial in cybersecurity.
+SHA-256 is a robust hashing algorithm.
